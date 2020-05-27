@@ -1,0 +1,21 @@
+[submodule "plugged/YouCompleteMe"]
+	path = plugged/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe
+[submodule "plugged/awesome-vim-colorschemes"]
+	path = plugged/awesome-vim-colorschemes
+	url = https://github.com/rafi/awesome-vim-colorschemes
+[submodule "plugged/nerdtree"]
+	path = plugged/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "plugged/ultisnips"]
+	path = plugged/ultisnips
+	url = https://github.com/SirVer/ultisnips
+[submodule "plugged/vim-airline"]
+	path = plugged/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "plugged/vim-easy-align"]
+	path = plugged/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align
+[submodule "plugged/vim-snippets"]
+	path = plugged/vim-snippets
+	url = https://github.com/honza/vim-snippets
