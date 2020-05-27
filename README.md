@@ -3,15 +3,15 @@ VIM Editor Setup
 
 This is my basic setup for Vim. First you need to symlink the vimrc to .vimrc in your home directory, then init the submodules.
 
-cd ~
+`cd ~`
 
-git clone https://github.com/albogdan/vim.git
+`git clone https://github.com/albogdan/vim.git`
 
-ln -s ~/vim/vimrc ~/.vimrc
+`ln -s ~/vim/vimrc ~/.vimrc`
 
-cd ~/vim
+`cd ~/vim`
 
-git submodule init
+`git submodule init`
 
-git submodule update --remote
+`git submodule update --remote`
 
