@@ -27,7 +27,7 @@ Plug 'ervandew/supertab'
 " Initialize plugin system
 call plug#end()
 
-set tabstop=8
+set tabstop=4
 set expandtab
 set softtabstop=3
 set shiftwidth=3
